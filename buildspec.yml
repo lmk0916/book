@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     _PROJECT_NAME: "user13-book"
-    _NAMESPACE: "" 
+    _NAMESPACE: "default" 
         
 phases:
   install:
